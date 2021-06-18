@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agyekumessien
 - 👀 I’m interested in ....Technology(.Net, Java, Web Develpment, Angular, Sql WebAPI, Asp.net Core
-- 🌱 I’m currently learning ...
+- 🌱 I love learning new things ...
 - 💞️ I’m looking to collaborate on ...agyekumessien
 - 📫 How to reach me ... 4044473025
 
